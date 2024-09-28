@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudByRepoPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+492bd4faa6cd57450bf4254402d73c8f45f2da3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudByRepoPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudByRepoPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
